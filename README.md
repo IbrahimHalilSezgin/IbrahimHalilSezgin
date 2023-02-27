@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # Diğer Projelerim
 [Github](https://github.com/KazDev0)
